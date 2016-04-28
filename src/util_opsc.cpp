@@ -49,6 +49,7 @@ using namespace std;
 
 #if defined(__PLATFORM_WIN32__)
 #include <windows.h>
+#define snprintf _snprintf
 #else
 #include <sys/types.h>
 #include <sys/socket.h>
