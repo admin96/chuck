@@ -12,3 +12,11 @@ src/Debug
 .DS_Store
 project.xcworkspace
 xcuserdata
+/src/chuck_win32.vcxproj.user
+/src/chuck_win32.VC.VC.opendb
+/src/chuck_win32.VC.db
+/src/chuck_win32.v11.suo
+/src/chuck_win32.sdf
+/src/.vs/chuck_win32/v14/.suo
+/src/.vs/chuck_win32/v14
+/src
